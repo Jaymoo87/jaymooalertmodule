@@ -1,0 +1,24 @@
+{
+  "name": "jaymooalertmodule",
+  "version": "1.0.0",
+  "description": "SweetAlert template with opinionated sweetAlert wrapper",
+  "main": "index.js",
+  "typings": "typings.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jaymoo87/jaymooalertmodule.git"
+  },
+  "keywords": [
+    "sweetalert-template",
+    "alert-wrapper",
+    "error-handler"
+  ],
+  "author": "Jaymoo",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.3"
+  }
+}
